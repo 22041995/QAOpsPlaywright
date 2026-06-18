@@ -1,0 +1,7 @@
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2YTI5N2UxYjE3ZWUzZTc4YmFjZjUzNDUiLCJ1c2VyRW1haWwiOiJuZW1pc2hyYTIyOTVAZ21haWwuY29tIiwidXNlck1vYmlsZSI6NzgzODQ1NTkwOSwidXNlclJvbGUiOiJjdXN0b21lciIsImlhdCI6MTc4MTYyMzI5MywiZXhwIjoxODEzMTgwODkzfQ.aQVo9RPCyAmRlkYKT3f80wOWS1OQ6t3Xmbuj1vCESuU
+{
+  orders: [ '6a3169fd17ee3e78bae48930' ],
+  productOrderId: [ '6960eac0c941646b7a8b3e68' ],
+  message: 'Order Placed Successfully'
+}
+ You have No Orders to show at this time. Please Visit Back Us 
